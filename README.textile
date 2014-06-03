@@ -4,6 +4,7 @@ Version: 1.0.1
 Release Date: 2014-01-08
 "www.pololu.com":http://www.pololu.com/
 
+*This library is deprecated; you should use the newer Pololu "LPS library":https://github.com/pololu/lps-arduino instead, which also supports the LPS25H.*
 
 h2. Summary
 
